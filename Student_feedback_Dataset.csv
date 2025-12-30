@@ -1,0 +1,201 @@
+Student_ID,Event_Name,Event_Type,Department,Year_of_Study,Gender,Event_Date,Rating,Overall_Satisfaction,Feedback_Comment
+S1001,Data Science Seminar,Seminar,IT,SY,Male,4/24/2024,1,Dissatisfied,Not very engaging
+S1002,Placement Guidance Seminar,Seminar,Training & Placement,FY,Male,1/17/2024,1,Very Dissatisfied,Too theoretical and boring
+S1003,Web Development Bootcamp,Workshop,IT,SY,Female,10/14/2024,2,Dissatisfied,Too theoretical and boring
+S1004,Web Development Bootcamp,Workshop,IT,SY,Female,1/4/2024,4,Satisfied,Enjoyed the event a lot
+S1005,Cultural Fest,Cultural,Arts,TY,Male,4/20/2024,3,Neutral,Average event
+S1006,Data Science Seminar,Seminar,IT,TY,Male,6/25/2024,4,Satisfied,Very informative and well organized
+S1007,Entrepreneurship Seminar,Seminar,Management,TY,Female,2/10/2024,5,Satisfied,Very informative and well organized
+S1008,Coding Hackathon,Workshop,Computer Science,TY,Male,4/26/2024,2,Dissatisfied,Poor time management
+S1009,Web Development Bootcamp,Workshop,IT,TY,Male,8/20/2024,1,Very Dissatisfied,Sound system was bad
+S1010,Cultural Fest,Cultural,Arts,FY,Male,5/16/2024,3,Neutral,Average event
+S1011,Placement Guidance Seminar,Seminar,Training & Placement,TY,Male,7/13/2024,2,Very Dissatisfied,Needs better organization
+S1012,Cultural Fest,Cultural,Arts,Final Year,Female,6/10/2024,1,Dissatisfied,Needs better organization
+S1013,Data Science Seminar,Seminar,IT,Final Year,Female,4/18/2024,2,Very Dissatisfied,Too theoretical and boring
+S1014,Entrepreneurship Seminar,Seminar,Management,TY,Female,5/6/2024,2,Dissatisfied,Not very engaging
+S1015,Coding Hackathon,Workshop,Computer Science,Final Year,Male,3/11/2024,4,Very Satisfied,Amazing experience and great speakers
+S1016,AI Workshop,Workshop,Computer Science,FY,Female,8/4/2024,1,Dissatisfied,Needs better organization
+S1017,Music Night,Cultural,Arts,FY,Male,10/10/2024,5,Satisfied,Very practical and interactive session
+S1018,Placement Guidance Seminar,Seminar,Training & Placement,TY,Female,2/27/2024,3,Neutral,Good but could be improved
+S1019,Cyber Security Talk,Seminar,Computer Science,SY,Male,9/13/2024,4,Satisfied,Very informative and well organized
+S1020,Robotics Workshop,Workshop,Mechanical,TY,Male,3/19/2024,5,Very Satisfied,Enjoyed the event a lot
+S1021,Placement Guidance Seminar,Seminar,Training & Placement,FY,Male,9/7/2024,5,Satisfied,Very informative and well organized
+S1022,Cultural Fest,Cultural,Arts,SY,Male,1/30/2024,3,Neutral,Average event
+S1023,Data Science Seminar,Seminar,IT,Final Year,Male,3/6/2024,4,Very Satisfied,Very informative and well organized
+S1024,Robotics Workshop,Workshop,Mechanical,SY,Female,4/18/2024,5,Satisfied,Enjoyed the event a lot
+S1025,Music Night,Cultural,Arts,Final Year,Male,9/21/2024,3,Neutral,Decent session
+S1026,Web Development Bootcamp,Workshop,IT,SY,Male,1/11/2024,2,Very Dissatisfied,Poor time management
+S1027,AI Workshop,Workshop,Computer Science,FY,Female,2/4/2024,1,Dissatisfied,Poor time management
+S1028,Data Science Seminar,Seminar,IT,SY,Male,9/5/2024,5,Satisfied,Excellent event learned many new skills
+S1029,Coding Hackathon,Workshop,Computer Science,Final Year,Male,8/30/2024,5,Very Satisfied,Very practical and interactive session
+S1030,Data Science Seminar,Seminar,IT,Final Year,Female,8/4/2024,1,Very Dissatisfied,Sound system was bad
+S1031,AI Workshop,Workshop,Computer Science,FY,Male,6/22/2024,1,Very Dissatisfied,Poor time management
+S1032,Web Development Bootcamp,Workshop,IT,Final Year,Male,3/12/2024,2,Very Dissatisfied,Too theoretical and boring
+S1033,Robotics Workshop,Workshop,Mechanical,FY,Male,8/14/2024,4,Very Satisfied,Excellent event learned many new skills
+S1034,Placement Guidance Seminar,Seminar,Training & Placement,Final Year,Female,3/26/2024,1,Dissatisfied,Poor time management
+S1035,Entrepreneurship Seminar,Seminar,Management,Final Year,Male,3/25/2024,2,Dissatisfied,Sound system was bad
+S1036,Music Night,Cultural,Arts,Final Year,Female,5/26/2024,3,Neutral,Decent session
+S1037,Cyber Security Talk,Seminar,Computer Science,FY,Female,1/30/2024,2,Dissatisfied,Not very engaging
+S1038,AI Workshop,Workshop,Computer Science,SY,Male,9/14/2024,1,Very Dissatisfied,Too theoretical and boring
+S1039,Placement Guidance Seminar,Seminar,Training & Placement,SY,Female,2/4/2024,1,Dissatisfied,Needs better organization
+S1040,Data Science Seminar,Seminar,IT,Final Year,Female,2/11/2024,5,Very Satisfied,Excellent event learned many new skills
+S1041,Robotics Workshop,Workshop,Mechanical,Final Year,Male,5/15/2024,2,Dissatisfied,Not very engaging
+S1042,Robotics Workshop,Workshop,Mechanical,Final Year,Male,1/5/2024,4,Very Satisfied,Amazing experience and great speakers
+S1043,Data Science Seminar,Seminar,IT,TY,Male,3/8/2024,5,Satisfied,Excellent event learned many new skills
+S1044,Web Development Bootcamp,Workshop,IT,Final Year,Female,3/21/2024,3,Neutral,Good but could be improved
+S1045,Coding Hackathon,Workshop,Computer Science,SY,Female,2/23/2024,5,Satisfied,Very informative and well organized
+S1046,Data Science Seminar,Seminar,IT,TY,Male,5/19/2024,1,Dissatisfied,Too theoretical and boring
+S1047,Cultural Fest,Cultural,Arts,FY,Male,5/8/2024,2,Very Dissatisfied,Not very engaging
+S1048,Music Night,Cultural,Arts,TY,Male,1/2/2024,3,Neutral,It was okay overall
+S1049,Robotics Workshop,Workshop,Mechanical,FY,Male,10/14/2024,2,Very Dissatisfied,Sound system was bad
+S1050,Data Science Seminar,Seminar,IT,SY,Female,7/8/2024,2,Dissatisfied,Too theoretical and boring
+S1051,Cyber Security Talk,Seminar,Computer Science,TY,Male,1/21/2024,1,Very Dissatisfied,Not very engaging
+S1052,Web Development Bootcamp,Workshop,IT,SY,Male,3/20/2024,1,Very Dissatisfied,Not very engaging
+S1053,Cyber Security Talk,Seminar,Computer Science,Final Year,Male,6/19/2024,4,Very Satisfied,Very informative and well organized
+S1054,Robotics Workshop,Workshop,Mechanical,Final Year,Male,1/20/2024,2,Very Dissatisfied,Poor time management
+S1055,Web Development Bootcamp,Workshop,IT,SY,Male,4/26/2024,4,Satisfied,Amazing experience and great speakers
+S1056,Web Development Bootcamp,Workshop,IT,TY,Female,2/5/2024,4,Satisfied,Amazing experience and great speakers
+S1057,Placement Guidance Seminar,Seminar,Training & Placement,FY,Female,1/15/2024,4,Satisfied,Enjoyed the event a lot
+S1058,Cyber Security Talk,Seminar,Computer Science,Final Year,Female,2/25/2024,5,Very Satisfied,Amazing experience and great speakers
+S1059,Cultural Fest,Cultural,Arts,SY,Female,7/16/2024,4,Very Satisfied,Enjoyed the event a lot
+S1060,AI Workshop,Workshop,Computer Science,Final Year,Male,7/5/2024,4,Very Satisfied,Very informative and well organized
+S1061,Cultural Fest,Cultural,Arts,TY,Female,6/2/2024,5,Very Satisfied,Amazing experience and great speakers
+S1062,Cultural Fest,Cultural,Arts,Final Year,Female,4/8/2024,4,Very Satisfied,Amazing experience and great speakers
+S1063,Cyber Security Talk,Seminar,Computer Science,FY,Female,7/26/2024,5,Satisfied,Enjoyed the event a lot
+S1064,Robotics Workshop,Workshop,Mechanical,Final Year,Female,8/26/2024,2,Very Dissatisfied,Sound system was bad
+S1065,Web Development Bootcamp,Workshop,IT,TY,Female,2/13/2024,5,Very Satisfied,Very practical and interactive session
+S1066,Data Science Seminar,Seminar,IT,SY,Male,4/11/2024,2,Dissatisfied,Not very engaging
+S1067,AI Workshop,Workshop,Computer Science,Final Year,Male,8/21/2024,2,Dissatisfied,Sound system was bad
+S1068,Music Night,Cultural,Arts,FY,Male,3/16/2024,4,Very Satisfied,Very practical and interactive session
+S1069,Music Night,Cultural,Arts,SY,Male,1/26/2024,2,Very Dissatisfied,Needs better organization
+S1070,Entrepreneurship Seminar,Seminar,Management,Final Year,Female,8/14/2024,2,Very Dissatisfied,Sound system was bad
+S1071,Cyber Security Talk,Seminar,Computer Science,TY,Female,5/6/2024,4,Satisfied,Very practical and interactive session
+S1072,Web Development Bootcamp,Workshop,IT,TY,Male,2/9/2024,3,Neutral,Decent session
+S1073,Robotics Workshop,Workshop,Mechanical,FY,Male,10/3/2024,3,Neutral,Good but could be improved
+S1074,Cyber Security Talk,Seminar,Computer Science,FY,Female,4/19/2024,2,Dissatisfied,Sound system was bad
+S1075,Music Night,Cultural,Arts,Final Year,Male,8/26/2024,3,Neutral,Satisfactory experience
+S1076,Web Development Bootcamp,Workshop,IT,Final Year,Female,10/21/2024,4,Very Satisfied,Very practical and interactive session
+S1077,AI Workshop,Workshop,Computer Science,Final Year,Male,7/18/2024,3,Neutral,Good but could be improved
+S1078,Entrepreneurship Seminar,Seminar,Management,FY,Female,9/5/2024,2,Very Dissatisfied,Not very engaging
+S1079,Cultural Fest,Cultural,Arts,FY,Female,3/6/2024,4,Satisfied,Excellent event learned many new skills
+S1080,Coding Hackathon,Workshop,Computer Science,SY,Female,8/7/2024,5,Very Satisfied,Very informative and well organized
+S1081,Cyber Security Talk,Seminar,Computer Science,SY,Female,6/16/2024,1,Very Dissatisfied,Not very engaging
+S1082,Cultural Fest,Cultural,Arts,Final Year,Female,5/22/2024,3,Neutral,Decent session
+S1083,Data Science Seminar,Seminar,IT,SY,Male,6/28/2024,4,Very Satisfied,Very informative and well organized
+S1084,AI Workshop,Workshop,Computer Science,SY,Male,1/11/2024,1,Dissatisfied,Needs better organization
+S1085,Cyber Security Talk,Seminar,Computer Science,TY,Female,8/26/2024,4,Very Satisfied,Very informative and well organized
+S1086,Cyber Security Talk,Seminar,Computer Science,TY,Male,3/24/2024,5,Very Satisfied,Enjoyed the event a lot
+S1087,Coding Hackathon,Workshop,Computer Science,SY,Male,7/22/2024,1,Very Dissatisfied,Not very engaging
+S1088,Coding Hackathon,Workshop,Computer Science,FY,Female,3/2/2024,2,Very Dissatisfied,Poor time management
+S1089,Placement Guidance Seminar,Seminar,Training & Placement,TY,Male,9/16/2024,4,Very Satisfied,Amazing experience and great speakers
+S1090,Music Night,Cultural,Arts,Final Year,Male,7/4/2024,4,Satisfied,Very informative and well organized
+S1091,Music Night,Cultural,Arts,Final Year,Female,10/2/2024,2,Very Dissatisfied,Too theoretical and boring
+S1092,Music Night,Cultural,Arts,FY,Female,5/5/2024,5,Satisfied,Amazing experience and great speakers
+S1093,Entrepreneurship Seminar,Seminar,Management,FY,Female,6/21/2024,2,Very Dissatisfied,Sound system was bad
+S1094,Cultural Fest,Cultural,Arts,TY,Female,6/30/2024,2,Dissatisfied,Sound system was bad
+S1095,Robotics Workshop,Workshop,Mechanical,SY,Male,9/21/2024,5,Very Satisfied,Amazing experience and great speakers
+S1096,Web Development Bootcamp,Workshop,IT,Final Year,Female,8/31/2024,4,Very Satisfied,Very practical and interactive session
+S1097,AI Workshop,Workshop,Computer Science,SY,Female,7/26/2024,1,Dissatisfied,Not very engaging
+S1098,Coding Hackathon,Workshop,Computer Science,TY,Female,10/10/2024,3,Neutral,Decent session
+S1099,Placement Guidance Seminar,Seminar,Training & Placement,TY,Female,8/20/2024,3,Neutral,Good but could be improved
+S1100,Robotics Workshop,Workshop,Mechanical,FY,Male,6/10/2024,2,Dissatisfied,Poor time management
+S1101,Web Development Bootcamp,Workshop,IT,TY,Male,9/25/2024,2,Very Dissatisfied,Sound system was bad
+S1102,Web Development Bootcamp,Workshop,IT,SY,Female,7/3/2024,3,Neutral,Average event
+S1103,AI Workshop,Workshop,Computer Science,FY,Female,1/24/2024,5,Satisfied,Excellent event learned many new skills
+S1104,Cyber Security Talk,Seminar,Computer Science,TY,Female,10/20/2024,4,Very Satisfied,Very informative and well organized
+S1105,Entrepreneurship Seminar,Seminar,Management,TY,Female,1/27/2024,4,Very Satisfied,Amazing experience and great speakers
+S1106,Data Science Seminar,Seminar,IT,FY,Male,2/7/2024,1,Very Dissatisfied,Sound system was bad
+S1107,Cyber Security Talk,Seminar,Computer Science,FY,Female,5/7/2024,5,Very Satisfied,Amazing experience and great speakers
+S1108,Coding Hackathon,Workshop,Computer Science,Final Year,Female,9/24/2024,5,Very Satisfied,Enjoyed the event a lot
+S1109,Entrepreneurship Seminar,Seminar,Management,TY,Male,8/7/2024,3,Neutral,Satisfactory experience
+S1110,Coding Hackathon,Workshop,Computer Science,FY,Male,5/15/2024,1,Dissatisfied,Needs better organization
+S1111,Web Development Bootcamp,Workshop,IT,FY,Female,3/21/2024,2,Dissatisfied,Too theoretical and boring
+S1112,Entrepreneurship Seminar,Seminar,Management,SY,Female,1/17/2024,5,Satisfied,Very practical and interactive session
+S1113,Robotics Workshop,Workshop,Mechanical,SY,Female,5/15/2024,4,Very Satisfied,Very informative and well organized
+S1114,Data Science Seminar,Seminar,IT,SY,Male,5/16/2024,5,Very Satisfied,Excellent event learned many new skills
+S1115,AI Workshop,Workshop,Computer Science,FY,Female,8/12/2024,2,Very Dissatisfied,Not very engaging
+S1116,Robotics Workshop,Workshop,Mechanical,FY,Male,8/12/2024,4,Satisfied,Amazing experience and great speakers
+S1117,Music Night,Cultural,Arts,FY,Male,5/8/2024,3,Neutral,Satisfactory experience
+S1118,Web Development Bootcamp,Workshop,IT,FY,Male,5/17/2024,5,Very Satisfied,Enjoyed the event a lot
+S1119,Entrepreneurship Seminar,Seminar,Management,Final Year,Female,4/2/2024,5,Satisfied,Very practical and interactive session
+S1120,Data Science Seminar,Seminar,IT,TY,Male,6/19/2024,4,Satisfied,Amazing experience and great speakers
+S1121,Cyber Security Talk,Seminar,Computer Science,TY,Female,9/10/2024,3,Neutral,Decent session
+S1122,Placement Guidance Seminar,Seminar,Training & Placement,TY,Female,6/10/2024,1,Dissatisfied,Sound system was bad
+S1123,Data Science Seminar,Seminar,IT,Final Year,Female,10/4/2024,4,Very Satisfied,Enjoyed the event a lot
+S1124,AI Workshop,Workshop,Computer Science,Final Year,Male,9/12/2024,2,Very Dissatisfied,Too theoretical and boring
+S1125,Web Development Bootcamp,Workshop,IT,TY,Female,3/8/2024,3,Neutral,Satisfactory experience
+S1126,Entrepreneurship Seminar,Seminar,Management,TY,Male,3/22/2024,1,Dissatisfied,Poor time management
+S1127,Placement Guidance Seminar,Seminar,Training & Placement,Final Year,Male,2/28/2024,4,Very Satisfied,Very informative and well organized
+S1128,Cyber Security Talk,Seminar,Computer Science,Final Year,Female,7/31/2024,4,Satisfied,Amazing experience and great speakers
+S1129,Web Development Bootcamp,Workshop,IT,SY,Male,7/15/2024,4,Very Satisfied,Enjoyed the event a lot
+S1130,Data Science Seminar,Seminar,IT,TY,Male,6/23/2024,3,Neutral,Decent session
+S1131,Robotics Workshop,Workshop,Mechanical,Final Year,Male,10/23/2024,3,Neutral,Satisfactory experience
+S1132,Entrepreneurship Seminar,Seminar,Management,Final Year,Female,6/19/2024,5,Satisfied,Very practical and interactive session
+S1133,Cultural Fest,Cultural,Arts,Final Year,Male,4/29/2024,2,Very Dissatisfied,Needs better organization
+S1134,Cultural Fest,Cultural,Arts,Final Year,Male,3/18/2024,4,Satisfied,Very practical and interactive session
+S1135,Cyber Security Talk,Seminar,Computer Science,Final Year,Male,2/21/2024,5,Satisfied,Enjoyed the event a lot
+S1136,Placement Guidance Seminar,Seminar,Training & Placement,SY,Male,7/28/2024,4,Very Satisfied,Very informative and well organized
+S1137,Entrepreneurship Seminar,Seminar,Management,FY,Female,7/22/2024,3,Neutral,Good but could be improved
+S1138,Placement Guidance Seminar,Seminar,Training & Placement,FY,Male,10/4/2024,4,Satisfied,Amazing experience and great speakers
+S1139,Web Development Bootcamp,Workshop,IT,Final Year,Male,2/16/2024,3,Neutral,Average event
+S1140,Data Science Seminar,Seminar,IT,FY,Female,1/15/2024,4,Satisfied,Excellent event learned many new skills
+S1141,AI Workshop,Workshop,Computer Science,Final Year,Male,7/10/2024,3,Neutral,Good but could be improved
+S1142,Web Development Bootcamp,Workshop,IT,SY,Male,3/28/2024,5,Very Satisfied,Very practical and interactive session
+S1143,Coding Hackathon,Workshop,Computer Science,SY,Male,9/11/2024,4,Very Satisfied,Enjoyed the event a lot
+S1144,Entrepreneurship Seminar,Seminar,Management,FY,Female,5/10/2024,3,Neutral,Decent session
+S1145,Robotics Workshop,Workshop,Mechanical,TY,Female,8/14/2024,5,Very Satisfied,Excellent event learned many new skills
+S1146,Music Night,Cultural,Arts,SY,Female,6/3/2024,3,Neutral,Decent session
+S1147,Entrepreneurship Seminar,Seminar,Management,TY,Female,10/19/2024,1,Very Dissatisfied,Needs better organization
+S1148,Robotics Workshop,Workshop,Mechanical,FY,Female,1/5/2024,1,Very Dissatisfied,Sound system was bad
+S1149,Robotics Workshop,Workshop,Mechanical,SY,Female,4/22/2024,2,Very Dissatisfied,Too theoretical and boring
+S1150,Cyber Security Talk,Seminar,Computer Science,FY,Female,8/13/2024,1,Very Dissatisfied,Poor time management
+S1151,Cyber Security Talk,Seminar,Computer Science,SY,Male,7/31/2024,1,Very Dissatisfied,Not very engaging
+S1152,Cyber Security Talk,Seminar,Computer Science,TY,Female,3/25/2024,5,Satisfied,Amazing experience and great speakers
+S1153,Robotics Workshop,Workshop,Mechanical,FY,Male,8/27/2024,3,Neutral,It was okay overall
+S1154,Web Development Bootcamp,Workshop,IT,Final Year,Male,2/16/2024,4,Satisfied,Enjoyed the event a lot
+S1155,Robotics Workshop,Workshop,Mechanical,TY,Female,7/7/2024,5,Satisfied,Very informative and well organized
+S1156,Cultural Fest,Cultural,Arts,TY,Male,1/13/2024,1,Very Dissatisfied,Needs better organization
+S1157,Data Science Seminar,Seminar,IT,SY,Male,2/29/2024,4,Satisfied,Amazing experience and great speakers
+S1158,AI Workshop,Workshop,Computer Science,FY,Male,2/29/2024,3,Neutral,Decent session
+S1159,Placement Guidance Seminar,Seminar,Training & Placement,Final Year,Male,7/8/2024,2,Very Dissatisfied,Sound system was bad
+S1160,Music Night,Cultural,Arts,FY,Female,5/23/2024,1,Very Dissatisfied,Sound system was bad
+S1161,Web Development Bootcamp,Workshop,IT,FY,Female,7/4/2024,4,Very Satisfied,Very practical and interactive session
+S1162,Placement Guidance Seminar,Seminar,Training & Placement,TY,Male,7/22/2024,3,Neutral,It was okay overall
+S1163,Data Science Seminar,Seminar,IT,FY,Female,1/11/2024,4,Very Satisfied,Very informative and well organized
+S1164,Web Development Bootcamp,Workshop,IT,SY,Male,2/5/2024,2,Dissatisfied,Too theoretical and boring
+S1165,Web Development Bootcamp,Workshop,IT,TY,Male,1/2/2024,3,Neutral,Average event
+S1166,Cyber Security Talk,Seminar,Computer Science,FY,Male,2/26/2024,5,Very Satisfied,Amazing experience and great speakers
+S1167,AI Workshop,Workshop,Computer Science,FY,Male,6/14/2024,3,Neutral,Average event
+S1168,Robotics Workshop,Workshop,Mechanical,FY,Male,9/26/2024,1,Very Dissatisfied,Needs better organization
+S1169,Entrepreneurship Seminar,Seminar,Management,SY,Male,8/19/2024,4,Very Satisfied,Amazing experience and great speakers
+S1170,Placement Guidance Seminar,Seminar,Training & Placement,FY,Female,1/16/2024,3,Neutral,Decent session
+S1171,Music Night,Cultural,Arts,FY,Male,8/15/2024,4,Satisfied,Very informative and well organized
+S1172,Cultural Fest,Cultural,Arts,TY,Female,3/5/2024,5,Very Satisfied,Excellent event learned many new skills
+S1173,Music Night,Cultural,Arts,Final Year,Male,8/20/2024,5,Satisfied,Enjoyed the event a lot
+S1174,Data Science Seminar,Seminar,IT,SY,Female,8/19/2024,5,Satisfied,Excellent event learned many new skills
+S1175,Cultural Fest,Cultural,Arts,TY,Female,2/18/2024,4,Satisfied,Very practical and interactive session
+S1176,Cultural Fest,Cultural,Arts,Final Year,Male,3/19/2024,3,Neutral,Good but could be improved
+S1177,Data Science Seminar,Seminar,IT,TY,Male,2/19/2024,1,Very Dissatisfied,Poor time management
+S1178,Placement Guidance Seminar,Seminar,Training & Placement,Final Year,Female,3/3/2024,1,Very Dissatisfied,Too theoretical and boring
+S1179,Music Night,Cultural,Arts,FY,Male,6/29/2024,1,Very Dissatisfied,Not very engaging
+S1180,Cyber Security Talk,Seminar,Computer Science,TY,Male,6/28/2024,4,Very Satisfied,Excellent event learned many new skills
+S1181,Robotics Workshop,Workshop,Mechanical,FY,Female,10/14/2024,5,Satisfied,Excellent event learned many new skills
+S1182,AI Workshop,Workshop,Computer Science,TY,Male,6/22/2024,2,Very Dissatisfied,Not very engaging
+S1183,Cyber Security Talk,Seminar,Computer Science,SY,Male,2/5/2024,2,Very Dissatisfied,Too theoretical and boring
+S1184,Data Science Seminar,Seminar,IT,Final Year,Female,8/2/2024,5,Satisfied,Excellent event learned many new skills
+S1185,Cyber Security Talk,Seminar,Computer Science,FY,Male,6/15/2024,3,Neutral,Good but could be improved
+S1186,Cyber Security Talk,Seminar,Computer Science,TY,Female,2/11/2024,2,Dissatisfied,Too theoretical and boring
+S1187,Music Night,Cultural,Arts,TY,Male,7/31/2024,4,Satisfied,Enjoyed the event a lot
+S1188,Placement Guidance Seminar,Seminar,Training & Placement,TY,Female,2/26/2024,1,Very Dissatisfied,Not very engaging
+S1189,Placement Guidance Seminar,Seminar,Training & Placement,Final Year,Male,4/22/2024,3,Neutral,It was okay overall
+S1190,AI Workshop,Workshop,Computer Science,TY,Female,3/11/2024,2,Dissatisfied,Not very engaging
+S1191,Cultural Fest,Cultural,Arts,SY,Male,8/8/2024,1,Very Dissatisfied,Poor time management
+S1192,Music Night,Cultural,Arts,Final Year,Male,2/6/2024,5,Satisfied,Excellent event learned many new skills
+S1193,Music Night,Cultural,Arts,Final Year,Female,6/9/2024,1,Dissatisfied,Sound system was bad
+S1194,Music Night,Cultural,Arts,FY,Female,7/26/2024,3,Neutral,It was okay overall
+S1195,Cyber Security Talk,Seminar,Computer Science,Final Year,Male,2/15/2024,5,Satisfied,Very practical and interactive session
+S1196,Web Development Bootcamp,Workshop,IT,FY,Female,9/25/2024,4,Satisfied,Enjoyed the event a lot
+S1197,Robotics Workshop,Workshop,Mechanical,SY,Male,6/19/2024,3,Neutral,Average event
+S1198,Placement Guidance Seminar,Seminar,Training & Placement,TY,Male,6/27/2024,1,Dissatisfied,Too theoretical and boring
+S1199,Web Development Bootcamp,Workshop,IT,SY,Male,4/11/2024,1,Very Dissatisfied,Needs better organization
+S1200,Data Science Seminar,Seminar,IT,Final Year,Female,10/15/2024,2,Very Dissatisfied,Sound system was bad
