@@ -29,7 +29,6 @@
   - Average Rating
   - Sentiment Count
   - Rating Distribution
-  - Department-wise and Event-wise metrics
 # Dashboard Features
   * Key KPIs
     - Average Rating
