@@ -64,8 +64,8 @@
   - supports evidence-based academic decisions
 
 
-# Dashboard Preview
-  ** Author **
+
+# Author 
 
 -- Samiksha Aher --
 Aspiring Data Analyst | Data Science Enthusiast
